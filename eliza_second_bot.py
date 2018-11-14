@@ -5,7 +5,6 @@ bot_template = "BOT : {0}"
 user_template = "USER : {0}"
 name = "Bartek"
 weather = "super duper"
-a = 'b'
 
 responses = {
   "what's your name?": [
