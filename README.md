@@ -1,4 +1,4 @@
-# Dobry sen dla Taty Toolkit
+# Dobry Sen Dla Taty Toolkit
 ## Prerequisites
 Szafka nocna, łóżko, kołdra, tata
 ## Installing
